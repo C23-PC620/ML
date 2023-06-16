@@ -2,6 +2,11 @@
 
 files from machine learning practitioners.
 
+Machine Learning Team:
+1. M304DSY1803 - Dinar Wahyu Rahman – Universitas Pembangunan Nasional Veteran Jakarta - [Active]
+2. M132DSX1825 – Sabrina Tiara Bachtiar – Universitas Airlangga - [Active]
+3. M251DSX2939 – Muhammad Teguh Prastyo – Universitas Muhammadiyah Malang - [Active] 
+
 ### Description
 
 <b>TENAN</b>: a travel app that can search for tourist destinations chosen by tourists, accommodation such as hotels will be netted, simple, only one action. the accommodation location is adjusted to the coordinates where the user is located. without having to look for both separately, in contrast to similar travel applications.
