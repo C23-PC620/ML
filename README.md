@@ -12,5 +12,6 @@ file-file dari para praktisi pembelajaran mesin.
 Recommendation system to predict user preferences or interests based on patterns or associations between users and the items they like. The main concept behind collaborative filtering is that if two users have similar preferences or behaviors in the past, then they are likely to have similar preferences in the future. <b>TENAN</b> using Item-Based Collaborative Filtering. This method predicts user preferences by looking at the similarities between the items selected by the user and other items. If two items have similarities in user preferences, it is likely that the item whose preferences are unknown will also be liked by that user.
 
 ### Dataset
+We use a dataset of tourist destinations in Indonesia originating fromm <a href="https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination">here</a>. And for the Hotel Accommodation dataset at <a href="[https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination](https://www.kaggle.com/datasets/datasciencerikiakbar/new-year-hotel-rooms-availability-from-traveloka )">here</a>.
 
 
